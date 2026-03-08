@@ -24,21 +24,3 @@ WindowsのSmartScreenにより警告が表示される場合があります。
 FFmpeg is licensed under the LGPL v2.1 or later.  
 © The FFmpeg developers.# PON
 Windows向け・単体完結型の軽量サウンドパッド
-
-PONは、Windows向けの単体完結型軽量サウンドパッドです。  
-インストール不要で、ダウンロード後すぐに起動できます。  
-マウス操作のみで利用でき、MIDI機器にも対応しています。
-
-## 特徴
-- インストール不要
-- 単体で完結
-- 配信端末を選ばない
-- 軽量・シンプル
-- MIDI PADは追加装備として対応
-
-## ダウンロード
-最新版は Releases から取得してください。
-
-## 注意
-初回起動時にWindowsの警告が表示される場合があります。  
-これはコード署名未取得によるもので、現在の仕様です。
